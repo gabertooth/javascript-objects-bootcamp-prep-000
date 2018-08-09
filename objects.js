@@ -1,2 +1,2 @@
 var playlist = {'Meek Mill':'Dreams WOrth More Than Money'}
-function update
+function updatePlaylist()
