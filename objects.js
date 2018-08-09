@@ -1,1 +1,1 @@
-var playlist = {artistName:songTitle}
+var playlist = {'Meek Mill':'Dreams Worth More than Money'}
