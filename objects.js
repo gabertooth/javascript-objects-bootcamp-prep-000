@@ -3,3 +3,7 @@ function updatePlaylist(playlist,artistName,songTitle){
   playlist[artistName] = 'Bruh'
   return playlist
 }
+
+function removeFromPlaylist(playlist,artistName){
+  playlist[]
+}
